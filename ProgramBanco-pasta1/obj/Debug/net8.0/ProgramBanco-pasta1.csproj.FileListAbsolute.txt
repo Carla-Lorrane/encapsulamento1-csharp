@@ -1,0 +1,14 @@
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\bin\Debug\net8.0\ProgramBanco-pasta1.exe
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\bin\Debug\net8.0\ProgramBanco-pasta1.deps.json
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\bin\Debug\net8.0\ProgramBanco-pasta1.runtimeconfig.json
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\bin\Debug\net8.0\ProgramBanco-pasta1.dll
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\bin\Debug\net8.0\ProgramBanco-pasta1.pdb
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.AssemblyInfo.cs
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.csproj.CoreCompileInputs.cache
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.dll
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\refint\ProgramBanco-pasta1.dll
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.pdb
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ProgramBanco-pasta1.genruntimeconfig.cache
+C:\Users\carla\source\repos\ProgramBanco-pasta1\ProgramBanco-pasta1\obj\Debug\net8.0\ref\ProgramBanco-pasta1.dll
